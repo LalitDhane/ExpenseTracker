@@ -1,0 +1,4 @@
+#Wed Nov 11 09:45:53 IST 2020
+base.0=/home/lalit/AndroidStudioProjects/ExpenseTracker/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
